@@ -1,0 +1,114 @@
+{
+	"lugares": [
+		{
+			"id": 1,
+			"nombre": "Escuela de Sistemas, UAdeC",
+			"descripcion": "Facultad dentro de Ciudad Universitaria que cuenta con vigilancia 24/7.",
+			"calle": "Carretera Torreon - Matamoros km. 7.5",
+			"numero": "S/N",
+			"colonia": "Ejido El Águila",
+			"cp": 27087,
+			"ciudad": "Torreon",
+			"estado": "Coahuila"
+		},
+		{
+			"id": 2,
+			"nombre": "Facultad de Derecho, UAdeC",
+			"descripcion": "Facultad Universitaria que cuenta con vigilancia 24/7.",
+			"calle": "Boulevard Revolución y Donato Guerra",
+			"numero": "S/N",
+			"colonia": "Primero de Cobian",
+			"cp": 27000,
+			"ciudad": "Torreon",
+			"estado": "Coahuila"
+		},
+		{
+			"id": 3,
+			"nombre": "Ingles Individual",
+			"descripcion": "Instituto de enseñanza en el idioma Ingles. Cuenta con un protocolo especializado para la atencion a mujeres que requieran asistencia.",
+			"calle": "Prolongacion Jimenez Sur",
+			"numero": 24,
+			"colonia": "Primero de Cobian",
+			"cp": 27000,
+			"ciudad": "Torreon",
+			"estado": "Coahuila"
+		},
+		{
+			"id": 4,
+			"nombre": "Postreria 639",
+			"descripcion": "Restaurante Cafeteria que ofrece un servicio de calidad, instalaciones de primera y un trato al cliente excepcional.",
+			"calle": "Avenida Fuentes y Calle Treviño",
+			"numero": 639,
+			"colonia": "Primero de Cobian",
+			"cp": 27000,
+			"ciudad": "Torreon",
+			"estado": "Coahuila"
+		},
+		{
+			"id": 5,
+			"nombre": "Poder Judicial de la Federacion",
+			"descripcion": "Organo jurisdiccional del orden Federal que promueve la protección de los Derechos Humanos de todas las personas. Cuenta con un protocolo de actuacion en pro de la salvaguarda de todas las mujeres que requieran asistencia.",
+			"calle": "Boulevard Independencia",
+			"numero": 2111,
+			"colonia": "San Isidro",
+			"cp": 27100,
+			"ciudad": "Torreon",
+			"estado": "Coahuila"
+		},
+		{
+			"id": 6,
+			"nombre": "La Mexa",
+			"descripcion": "Cantina - Club nocturno. Cuenta con un protocolo de actuacion inmediata para mujeres que asi lo requieran.",
+			"calle": "Avenida Morelos",
+			"numero": 47,
+			"colonia": "Primero de Cobian",
+			"cp": 27000,
+			"ciudad": "Torreon",
+			"estado": "Coahuila"
+		},
+		{
+			"id": 7,
+			"nombre": "Pampas Gaucha Express",
+			"descripcion": "Restaurante especializado en comida Brasileira. Cuenta con un protocolo de actuacion inmediata para mujeres que asi lo requieran.",
+			"calle": "Avenida Morelos",
+			"numero": 278,
+			"colonia": "Primero de Cobian",
+			"cp": 27000,
+			"ciudad": "Torreon",
+			"estado": "Coahuila"
+		},
+		{
+			"id": 8,
+			"nombre": "Pampas Gaucha",
+			"descripcion": "Restaurante especializado en comida Brasileira. Cuenta con un protocolo de actuacion inmediata para mujeres que asi lo requieran.",
+			"calle": "Periferico Raul Lopez Sanchez",
+			"numero": 6000,
+			"colonia": "Interior de Galerias Laguna",
+			"cp": 27018,
+			"ciudad": "Torreon",
+			"estado": "Coahuila"
+		},
+		{
+			"id": 9,
+			"nombre": "Ayuntamiento de Torreon",
+			"descripcion": "Edificio del ayuntamiento de la ciudad de Torreon. Cuenta con excelentes instalaciones y personal calificado para brindar atencion inmediata para todas las mujeres que asi lo requieran.",
+			"calle": "Avenida Allende",
+			"numero": 333,
+			"colonia": "Primero de Cobian",
+			"cp": 27000,
+			"ciudad": "Torreon",
+			"estado": "Coahuila"
+		},
+		{
+			"id": 10,
+			"nombre": "Centro de Justicia y Empoderamiento para las Mujeres",
+			"descripcion": "El Gobierno del Estado de Coahuila ha creado un centro especializado en brindar servicios multidisciplinarios para las mujeres. Todo en un entorno amigable, como y seguro.",
+			"calle": "Boulevard Francisco Sarabia",
+			"numero": "S/N",
+			"colonia": "San Felipe",
+			"cp": 27085,
+			"ciudad": "Torreon",
+			"estado": "Coahuila"
+		}
+	]
+}
