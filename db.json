@@ -9,7 +9,8 @@
 			"colonia": "Ejido El Águila",
 			"cp": 27087,
 			"ciudad": "Torreón",
-			"estado": "Coahuila"
+			"estado": "Coahuila",
+			"foto": "https://i.ibb.co/y8NmRrk/escuela-sistemas.jpg"
 		},
 		{
 			"id": 2,
@@ -20,7 +21,8 @@
 			"colonia": "Primero de Cobian",
 			"cp": 27000,
 			"ciudad": "Torreón",
-			"estado": "Coahuila"
+			"estado": "Coahuila",
+			"foto": "https://i.ibb.co/smbqZmH/facultad-derecho.jpg"
 		},
 		{
 			"id": 3,
@@ -31,7 +33,8 @@
 			"colonia": "Primero de Cobian",
 			"cp": 27000,
 			"ciudad": "Torreón",
-			"estado": "Coahuila"
+			"estado": "Coahuila",
+			"foto": "https://i.ibb.co/Y3KNRxM/ingles-individual.jpg"
 		},
 		{
 			"id": 4,
@@ -42,7 +45,8 @@
 			"colonia": "Primero de Cobian",
 			"cp": 27000,
 			"ciudad": "Torreón",
-			"estado": "Coahuila"
+			"estado": "Coahuila",
+			"foto": "https://i.ibb.co/3RYvhbC/postreria-639.png"
 		},
 		{
 			"id": 5,
@@ -53,7 +57,8 @@
 			"colonia": "San Isidro",
 			"cp": 27100,
 			"ciudad": "Torreón",
-			"estado": "Coahuila"
+			"estado": "Coahuila",
+			"foto": "https://i.ibb.co/2cTrN4T/poder-judicial.jpg"
 		},
 		{
 			"id": 6,
@@ -64,7 +69,8 @@
 			"colonia": "Primero de Cobian",
 			"cp": 27000,
 			"ciudad": "Torreón",
-			"estado": "Coahuila"
+			"estado": "Coahuila",
+			"foto": "https://i.ibb.co/d2FrsCZ/la-mexa.jpg"
 		},
 		{
 			"id": 7,
@@ -75,7 +81,8 @@
 			"colonia": "Primero de Cobian",
 			"cp": 27000,
 			"ciudad": "Torreón",
-			"estado": "Coahuila"
+			"estado": "Coahuila",
+			"foto": "https://i.ibb.co/DY7BSJ4/pampas-gaucha-express.jpg"
 		},
 		{
 			"id": 8,
@@ -86,7 +93,8 @@
 			"colonia": "Interior, Galerias Laguna",
 			"cp": 27018,
 			"ciudad": "Torreón",
-			"estado": "Coahuila"
+			"estado": "Coahuila",
+			"foto": "https://i.ibb.co/17YQmdx/pampas-gaucha.jpg"
 		},
 		{
 			"id": 9,
@@ -97,7 +105,8 @@
 			"colonia": "Primero de Cobian",
 			"cp": 27000,
 			"ciudad": "Torreón",
-			"estado": "Coahuila"
+			"estado": "Coahuila",
+			"foto": "https://i.ibb.co/BfqvD2q/ayuntamiento.jpg"
 		},
 		{
 			"id": 10,
@@ -108,7 +117,8 @@
 			"colonia": "San Felipe",
 			"cp": 27085,
 			"ciudad": "Torreón",
-			"estado": "Coahuila"
+			"estado": "Coahuila",
+			"foto": "https://i.ibb.co/z7nVcKy/centro-justicia.jpg"
 		}
 	]
 }
