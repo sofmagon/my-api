@@ -8,7 +8,7 @@
 			"numero": "S/N",
 			"colonia": "Ejido El Águila",
 			"cp": 27087,
-			"ciudad": "Torreon",
+			"ciudad": "Torreón",
 			"estado": "Coahuila"
 		},
 		{
@@ -19,40 +19,40 @@
 			"numero": "S/N",
 			"colonia": "Primero de Cobian",
 			"cp": 27000,
-			"ciudad": "Torreon",
+			"ciudad": "Torreón",
 			"estado": "Coahuila"
 		},
 		{
 			"id": 3,
-			"nombre": "Ingles Individual",
-			"descripcion": "Instituto de enseñanza en el idioma Ingles. Cuenta con un protocolo especializado para la atencion a mujeres que requieran asistencia.",
-			"calle": "Prolongacion Jimenez Sur",
+			"nombre": "Inglés Individual",
+			"descripcion": "Instituto de enseñanza en el idioma Inglés. Cuenta con un protocolo especializado para la atencion a mujeres que requieran asistencia.",
+			"calle": "Prolongación Jimenez Sur",
 			"numero": 24,
 			"colonia": "Primero de Cobian",
 			"cp": 27000,
-			"ciudad": "Torreon",
+			"ciudad": "Torreón",
 			"estado": "Coahuila"
 		},
 		{
 			"id": 4,
 			"nombre": "Postreria 639",
-			"descripcion": "Restaurante Cafeteria que ofrece un servicio de calidad, instalaciones de primera y un trato al cliente excepcional.",
+			"descripcion": "Restaurante Cafetería que ofrece un servicio de calidad, instalaciones de primera y un trato al cliente excepcional.",
 			"calle": "Avenida Fuentes y Calle Treviño",
 			"numero": 639,
 			"colonia": "Primero de Cobian",
 			"cp": 27000,
-			"ciudad": "Torreon",
+			"ciudad": "Torreón",
 			"estado": "Coahuila"
 		},
 		{
 			"id": 5,
-			"nombre": "Poder Judicial de la Federacion",
+			"nombre": "Poder Judicial de la Federación",
 			"descripcion": "Organo jurisdiccional del orden Federal que promueve la protección de los Derechos Humanos de todas las personas. Cuenta con un protocolo para la salvaguarda de todas las mujeres.",
 			"calle": "Boulevard Independencia",
 			"numero": 2111,
 			"colonia": "San Isidro",
 			"cp": 27100,
-			"ciudad": "Torreon",
+			"ciudad": "Torreón",
 			"estado": "Coahuila"
 		},
 		{
@@ -63,7 +63,7 @@
 			"numero": 47,
 			"colonia": "Primero de Cobian",
 			"cp": 27000,
-			"ciudad": "Torreon",
+			"ciudad": "Torreón",
 			"estado": "Coahuila"
 		},
 		{
@@ -74,7 +74,7 @@
 			"numero": 278,
 			"colonia": "Primero de Cobian",
 			"cp": 27000,
-			"ciudad": "Torreon",
+			"ciudad": "Torreón",
 			"estado": "Coahuila"
 		},
 		{
@@ -85,18 +85,18 @@
 			"numero": 6000,
 			"colonia": "Interior, Galerias Laguna",
 			"cp": 27018,
-			"ciudad": "Torreon",
+			"ciudad": "Torreón",
 			"estado": "Coahuila"
 		},
 		{
 			"id": 9,
-			"nombre": "Ayuntamiento de Torreon",
-			"descripcion": "Edificio del ayuntamiento de la ciudad de Torreon. Cuenta con excelentes instalaciones y personal calificado para brindar atencion inmediata para todas las mujeres que asi lo requieran.",
+			"nombre": "Ayuntamiento de Torreón",
+			"descripcion": "Edificio del ayuntamiento de la ciudad de Torreón. Cuenta con excelentes instalaciones y personal calificado para brindar atencion inmediata para todas las mujeres que asi lo requieran.",
 			"calle": "Avenida Allende",
 			"numero": 333,
 			"colonia": "Primero de Cobian",
 			"cp": 27000,
-			"ciudad": "Torreon",
+			"ciudad": "Torreón",
 			"estado": "Coahuila"
 		},
 		{
@@ -107,7 +107,7 @@
 			"numero": "S/N",
 			"colonia": "San Felipe",
 			"cp": 27085,
-			"ciudad": "Torreon",
+			"ciudad": "Torreón",
 			"estado": "Coahuila"
 		}
 	]
