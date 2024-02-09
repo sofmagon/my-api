@@ -47,7 +47,7 @@
 		{
 			"id": 5,
 			"nombre": "Poder Judicial de la Federacion",
-			"descripcion": "Organo jurisdiccional del orden Federal que promueve la protección de los Derechos Humanos de todas las personas. Cuenta con un protocolo de actuacion en pro de la salvaguarda de todas las mujeres que requieran asistencia.",
+			"descripcion": "Organo jurisdiccional del orden Federal que promueve la protección de los Derechos Humanos de todas las personas. Cuenta con un protocolo para la salvaguarda de todas las mujeres.",
 			"calle": "Boulevard Independencia",
 			"numero": 2111,
 			"colonia": "San Isidro",
@@ -83,7 +83,7 @@
 			"descripcion": "Restaurante especializado en comida Brasileira. Cuenta con un protocolo de actuacion inmediata para mujeres que asi lo requieran.",
 			"calle": "Periferico Raul Lopez Sanchez",
 			"numero": 6000,
-			"colonia": "Interior de Galerias Laguna",
+			"colonia": "Interior, Galerias Laguna",
 			"cp": 27018,
 			"ciudad": "Torreon",
 			"estado": "Coahuila"
@@ -102,7 +102,7 @@
 		{
 			"id": 10,
 			"nombre": "Centro de Justicia y Empoderamiento para las Mujeres",
-			"descripcion": "El Gobierno del Estado de Coahuila ha creado un centro especializado en brindar servicios multidisciplinarios para las mujeres. Todo en un entorno amigable, como y seguro.",
+			"descripcion": "El Gobierno del Estado de Coahuila ha creado un centro especializado en brindar servicios multidisciplinarios para las mujeres. Todo en un entorno amigable, cómodo y seguro.",
 			"calle": "Boulevard Francisco Sarabia",
 			"numero": "S/N",
 			"colonia": "San Felipe",
