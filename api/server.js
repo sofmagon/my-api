@@ -8,9 +8,11 @@ server.use(middlewares);
 // Antes de server.use(router)
 server.use(
 	jsonServer.rewriter({
-		"/api/*": "/$1"
+		"/api/lugares": "/lugares",
+		"/api/lugares/:id": "/lugares/:id"
 	})
 );
+
 server.use(router);
 server.listen(3000, () => {
 	console.log("El servidor JSON está funcionando");
